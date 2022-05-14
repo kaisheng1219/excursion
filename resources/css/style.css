@@ -1,0 +1,23 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    background-color: black;
+    align-items: center;
+}
+
+.slogan h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+.download.link {
+    padding-top: .3em;
+    text-align: center;
+}
+
+.download.link .txt {
+    color: aquamarine;
+    font-size: 16px;
+}
