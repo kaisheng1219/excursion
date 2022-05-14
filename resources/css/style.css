@@ -2,22 +2,57 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     background-color: black;
-    align-items: center;
+    text-align: center;
 }
 
 .slogan h1 {
     font-size: 50px;
     font-weight: normal;
     color: white;
-    text-align: center;
 }
 
 .download.link {
     padding-top: .3em;
-    text-align: center;
 }
 
 .download.link .txt {
     color: aquamarine;
     font-size: 16px;
+}
+
+.vid {
+    padding-top: 1em;
+}
+
+.feature {
+    padding-top: .4em;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.feature h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.feature .desc {
+    font-size: 21px;
+    color: gray;
+}
+
+.coming {
+    padding-top: .4em;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coming h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
